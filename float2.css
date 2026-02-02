@@ -1,0 +1,23 @@
+.kota {
+  float: left;
+  width: 800px;
+  height: 500px;
+  line-height: 500px;
+  text-align: center;
+}
+
+
+.jaka {
+  width: 200px;
+  background-color: cyan;
+}
+
+.band {
+  width: 400px;
+  background-color: yellow;
+}
+
+.sura {
+  width: 200px;
+  background-color: magenta;
+}
