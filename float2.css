@@ -1,23 +1,24 @@
 .kota {
   float: left;
-  width: 800px;
-  height: 500px;
-  line-height: 500px;
+  width: 790px;
+  height: 490px;
+  line-height: 490px;
   text-align: center;
-}
+  padding: 5px;
+} 
 
 
 .jaka {
-  width: 200px;
+  width: 185px;
   background-color: cyan;
 }
 
 .band {
-  width: 400px;
+  width: 390px;
   background-color: yellow;
 }
 
 .sura {
-  width: 200px;
+  width: 185px;
   background-color: magenta;
 }
